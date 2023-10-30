@@ -1,2 +1,3 @@
 # selam
-ekranda selam sozunu cikartmak
+# ekranda selam sozunu cikartmak
+print("Hello World")
